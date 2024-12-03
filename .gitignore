@@ -4,3 +4,6 @@
 
 # entorno local
 /venv
+
+#yolo
+yolov8x.pt
